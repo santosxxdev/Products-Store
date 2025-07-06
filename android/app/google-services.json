@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214251261945",
+    "project_id": "kema-5963c",
+    "storage_bucket": "kema-5963c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214251261945:android:f6f585ffda23531dcab728",
+        "android_client_info": {
+          "package_name": "com.example.splach_with_login_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkAGXncHhGyq9Ml4-du-_7MtrqsCv0BJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
